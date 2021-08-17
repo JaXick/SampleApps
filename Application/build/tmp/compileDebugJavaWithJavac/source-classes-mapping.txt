@@ -1,0 +1,17 @@
+com/example/android/basicmanagedprofile/PostProvisioningHelper.java
+ com.example.android.basicmanagedprofile.PostProvisioningHelper
+com/example/android/basicmanagedprofile/EnableProfileActivity.java
+ com.example.android.basicmanagedprofile.EnableProfileActivity
+com/example/android/basicmanagedprofile/BuildConfig.java
+ com.example.android.basicmanagedprofile.BuildConfig
+com/example/android/basicmanagedprofile/ProvisioningSuccessActivity.java
+ com.example.android.basicmanagedprofile.ProvisioningSuccessActivity
+com/example/android/basicmanagedprofile/BasicDeviceAdminReceiver.java
+ com.example.android.basicmanagedprofile.BasicDeviceAdminReceiver
+com/example/android/basicmanagedprofile/SetupProfileFragment.java
+ com.example.android.basicmanagedprofile.SetupProfileFragment
+com/example/android/basicmanagedprofile/BasicManagedProfileFragment.java
+ com.example.android.basicmanagedprofile.BasicManagedProfileFragment
+ com.example.android.basicmanagedprofile.BasicManagedProfileFragment$1
+com/example/android/basicmanagedprofile/MainActivity.java
+ com.example.android.basicmanagedprofile.MainActivity

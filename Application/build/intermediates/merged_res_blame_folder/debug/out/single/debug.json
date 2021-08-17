@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\layout_enable_profile_activity.xml.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\layout\\enable_profile_activity.xml"
+    },
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\layout_setup_profile_fragment.xml.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\layout\\setup_profile_fragment.xml"
+    },
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\layout_main_activity.xml.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\layout_basic_managed_profile_fragment.xml.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\layout\\basic_managed_profile_fragment.xml"
+    },
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\xml_basic_device_admin_receiver.xml.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\xml\\basic_device_admin_receiver.xml"
+    },
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_badge.png.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\drawable-xxhdpi\\badge.png"
+    },
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_badged.xml.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\drawable\\ic_launcher_badged.xml"
+    },
+    {
+        "merged": "C:\\A-Project\\profileApp\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\A-Project\\profileApp\\Application\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
